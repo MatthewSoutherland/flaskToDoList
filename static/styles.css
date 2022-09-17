@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: beige;
+}
+
+.form-div {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+.table-div {
+  padding-left: 10%;
+  padding-right: 10%;
+}
